@@ -29,7 +29,7 @@
 
 -- Recipe for 'throwing:arrow' conflicts with 'castle_weapons:crossbow_bolt'
 -- TODO: 'antum:feather' item should be moved to 'antum_items' mod
-if antum.dependsSatisfied({'throwing', 'antum_core'}) then
+if antum.dependsSatisfied({'throwing', 'antum'}) then
 	-- TODO: Possible alternate solutions:
 	--   * Allow 'throwing:arrow' to be used as ammo for 'castle_weapons:crossbow'
 	
