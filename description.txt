@@ -1,1 +1,1 @@
-Mods designed specifically for the Antum game.
+Overrides of craft recipes, items, etc. from other mods for the Antum game.
