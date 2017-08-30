@@ -26,7 +26,6 @@
 
 
 local modoverrides = {
-	'animalmaterials',
 	'cooking',
 	'mobs',
 }
