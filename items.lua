@@ -28,7 +28,6 @@
 local modoverrides = {
 	'animalmaterials',
 	'cooking',
-	'farming_plus',
 	'mobs',
 	'simple_protection',
 }
